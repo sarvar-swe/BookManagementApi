@@ -74,6 +74,9 @@ Swagger is enabled in this project for API documentation. You can access it at:
 
 🔗 **Swagger URL:** [http://localhost:{port}/swagger](http://localhost:{port}/swagger)
 
+![Swagger Documentation](image.png)
+
+
 ## 📜 Author
 
 👤 **Sarvar Azodov**  
