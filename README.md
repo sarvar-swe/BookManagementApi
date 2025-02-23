@@ -67,9 +67,15 @@ BookManagementApi/
 | `PUT` | `/api/Books/{id}` | Update a book |
 | `DELETE` | `/api/Books/{id}` | Delete a book |
 
+
+## 📖 Swagger Documentation
+
+Swagger is enabled in this project for API documentation. You can access it at:
+
+🔗 **Swagger URL:** [http://localhost:{port}/swagger](http://localhost:{port}/swagger)
+
 ## 📜 Author
 
 👤 **Sarvar Azodov**  
 - GitHub: [sarvar-swe](https://github.com/sarvar-swe)  
 - LinkedIn: [sarvarbek-azodov](https://linkedin.com/in/sarvarbek-azodov)
-
