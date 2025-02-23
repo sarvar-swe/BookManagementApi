@@ -5,8 +5,8 @@ BookManagementApi is an **ASP.NET Core Web API** project designed for managing b
 ## 🚀 Technologies Used
 
 - **Programming Language**: C#  
-- **Framework**: .NET 8 or .NET 9  
-- **Database**: SQL Server (with EF Core) or MongoDB  
+- **Framework**: .NET 9  
+- **Database**: SQL Server (with EF Core)
 - **Architecture**: 3-layered architecture (Models, DataAccess, API)  
 
 ## 📁 Project Structure
