@@ -59,10 +59,11 @@ BookManagementApi/
 
 | HTTP Method | Endpoint | Description |
 |------------|---------|-------------|
-| `GET` | `/api/Books` | Get all books |
-| `GET` | `/api/Books/{id}` | Get a book by ID |
 | `POST` | `/api/Books` | Add a new book |
+| `GET` | `/api/Books` | Get all books |
+| `DELETE` | `/api/Books` | Delete books bulk |
 | `POST` | `/api/Books/bulk` | Add a new books |
+| `GET` | `/api/Books/{id}` | Get a book by ID |
 | `PUT` | `/api/Books/{id}` | Update a book |
 | `DELETE` | `/api/Books/{id}` | Delete a book |
 
